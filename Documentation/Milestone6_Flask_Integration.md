@@ -102,11 +102,3 @@ python app.py
 Then open [http://localhost:5000](http://localhost:5000) in your browser.
 
 ---
-
-## ✅ Summary
-
-- Model and scaler are integrated into a Flask app.
-- Simple HTML form accepts inputs and shows prediction.
-- Ready for deployment and demo.
-
-🎯 You're now ready for project recording, testing, and submission!
