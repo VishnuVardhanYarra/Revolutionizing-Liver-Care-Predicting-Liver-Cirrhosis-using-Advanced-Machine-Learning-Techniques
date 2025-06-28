@@ -78,5 +78,3 @@ These models will be used in the Flask deployment.
 - Hyperparameter tuning significantly improved model performance.
 - GridSearchCV was used for Random Forest and XGBoost.
 - The best-tuned model is saved for integration with the UI.
-
-📁 You can place this file as: `Documentation/Milestone5_Performance_Tuning.md`
